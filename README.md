@@ -171,9 +171,8 @@ rule-based-chatbot/
 **Gauri Agarwal**
 B.Tech Electronics Engineering (VLSI Design & Technology), Banasthali Vidyapith
 
-- GitHub: [@your-username](https://github.com/your-username)
-- Medium: add your link here
-- LinkedIn: add your link here
+
+- LinkedIn: https://www.linkedin.com/in/gauri-agarwal-a7821a301
 
 ---
 
